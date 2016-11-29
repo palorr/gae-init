@@ -37,7 +37,7 @@
     "less": "~2",
     "main-bower-files": "~2",
     "require-dir": "~0",
-    "uglify-js": "~2",
+    "uglify-js": "~2.7.5",
     "yargs-parser": "~4"
   }
 }
